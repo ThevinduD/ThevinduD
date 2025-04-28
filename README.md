@@ -1,12 +1,14 @@
 <h1 align="center">Hello there, I'm Thevindu Dehigaspitiya</h1>
 <h3 align="center">Full-Stack Developer | BEng (Hons) Software Engineering (UG)</h3>
-
+<br/>
 <div align="center">
+  
 - 📫 How to reach me **thevindud.work@gmail.com**
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
 - 📄 Know about my experiences [coming soon...](coming soon...)
+
 </div>
 
 <h3 align="center">Connect with me</h3>
