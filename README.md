@@ -4,7 +4,7 @@
 ---
 - Reach me **thevindud.work@gmail.com**
 
-- All of my projects are available at [coming soon...]
+- Portfolio [coming soon...]
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
