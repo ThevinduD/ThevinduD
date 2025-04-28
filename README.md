@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Developer | BEng (Hons) Software Engineering (UG)</h3>
 <br/>
 
-- Reach Me **thevindud.work@gmail.com**
+- Reach me **thevindud.work@gmail.com**
 
 - All of my projects are available at [coming soon...]
 
-- My Resume [coming soon...]
+- My resume [coming soon...]
 
 
 <h3 align="center">Connect with me</h3>
