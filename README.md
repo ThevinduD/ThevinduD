@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/thevindu-dehigaspitiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevindu-dehigaspitiya" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Tools and technologies</h2>
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" width="40" height="40"/></a>
