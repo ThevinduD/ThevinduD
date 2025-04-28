@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Thevindu Dehigaspitiya</h1>
+<h1 align="center">Hello there, I'm Thevindu Dehigaspitiya</h1>
 <h3 align="center">Full-Stack Developer | BEng (Hons) Software Engineering (UG)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevindud&label=Profile%20views&color=0e75b6&style=flat" alt="thevindud" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thevindud&label=Profile%20views&color=0e75b6&style=flat" alt="thevindud" /> </p>
 
 - 📫 How to reach me **thevindud.work@gmail.com**
 
