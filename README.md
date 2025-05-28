@@ -8,6 +8,5 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/thevindudev" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?size=512&id=A4DsujzAX4rw&format=png" alt="thevindudev" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/thevindu-dehigaspitiya" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="thevindu-dehigaspitiya" height="45" width="45" /></a>
 </p>
