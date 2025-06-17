@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer | BEng (Hons) Software Engineering (UG)</h3>
 
 ---
-- Reach me **thevindud.work@gmail.com**
+- Reach me             - **thevindud.work@gmail.com**
 
-- Portfolio **https://thevindudev.vercel.app/**
+- Personal Portfolio   - **https://thevindudev.vercel.app/**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
