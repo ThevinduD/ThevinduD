@@ -4,7 +4,7 @@
 ---
 - Reach me **thevindud.work@gmail.com**
 
-- Portfolio [coming soon...]
+- Portfolio **https://thevindudev.vercel.app/**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
