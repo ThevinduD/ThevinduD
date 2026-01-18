@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Thevindu Dehigaspitiya</h1>
-<h3 align="center">Full-Stack Developer | BEng (Hons) Software Engineering (UG)</h3>
+<h3 align="center">Associate Software Engineer | N-AG Innovates | BEng (Hons) Software Engineering (UG)</h3>
 
 ---
 - Reach me : **thevindud.work@gmail.com**
